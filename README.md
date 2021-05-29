@@ -14,7 +14,7 @@ You are not allowed to collaborate during the sprint challenge.
 - [x] Open the assignment in Canvas and click on the "Set up git" option.
 - [x] Follow instructions to set up Codegrade's Webhook and Deploy Key.
 - [x] Make a commit and push it to Github.
-- [ ] Check to see that Codegrade has accepted your git submission.
+- [x] Check to see that Codegrade has accepted your git submission.
 
 For a step-by-step on setting up Codegrade see [this guide.](https://www.notion.so/lambdaschool/Submitting-an-assignment-via-Code-Grade-A-Step-by-Step-Walkthrough-07bd65f5f8364e709ecb5064735ce374)
 
@@ -116,8 +116,10 @@ After finishing your required elements, you can push your work further. These go
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. Explain the difference between Relational Databases and SQL.
+   SQL is the language used to manage a database. The rational database is the actual database consisting of tables.
 2. Why do tables need a Primary Key?
+   The primary key is used to select important keys. This is used when you are merging tables and everything.
 3. What is the name given to a table column that references the Primary Key on another table?
+   Foreign key
 4. What do we need in order to have a _many to many_ relationship between two tables?
-
-testing codegrade
+   A table that connects foreign keys to the primary keys
