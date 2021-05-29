@@ -123,3 +123,4 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
    Foreign key
 4. What do we need in order to have a _many to many_ relationship between two tables?
    A table that connects foreign keys to the primary keys
+   xxx
